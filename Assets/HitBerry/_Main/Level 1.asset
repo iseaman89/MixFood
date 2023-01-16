@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6757a7bd36d49c6a25e8486f9a1ed8e, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  OrderColor: {r: 0.64705884, g: 0.87058824, b: 0.21176471, a: 1}
+  LevelNumber: 1
+  FoodPrefabs:
+  - {fileID: 4473620710153573626, guid: 5093133c99186416f90e9cca272aac20, type: 3}
+  - {fileID: -6341541029624874, guid: b12535ec15ec64e88bb0437795711961, type: 3}
+  FoodPositions:
+  - {x: -0.508, y: 0.949573, z: 5.7770033}
+  - {x: -0.532, y: 0.949573, z: 6.171}
+  ClientPrefab: {fileID: 1588591158528061009, guid: 4841345522a1b4ae5926de5194733394,
+    type: 3}
